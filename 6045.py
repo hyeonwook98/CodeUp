@@ -1,0 +1,5 @@
+a,b,c=input().split()
+sum=int(a)+int(b)+int(c)
+d=float(3)
+avg=format(sum/d,".2f")
+print(sum,avg)
